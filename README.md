@@ -1,4 +1,4 @@
-# Assignment 4: Parser for nanoC
+# Parser for nanoC
 ## CS348 - Implementation of Programming Languages Lab
 ## IIT Guwahati
 
